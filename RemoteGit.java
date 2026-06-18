@@ -43,7 +43,7 @@ public class RemoteGit {
 		}
 
 		else if (confirmToUpper == 'N') {
-			System.out.println("Why not");
+			System.out.println("Why Not???");
 			gradeLttr = 'F';
 		}
 
