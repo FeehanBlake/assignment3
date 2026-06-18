@@ -55,9 +55,13 @@ public class RemoteGit {
 
 		} else if (gradeLttr == 'C') {
 			System.out.println("Atleast you had passed!");
+		}
+
+		else if (gradeLttr == 'D') {
+			System.out.println("Better work harder next time!");
 
 		} else {
-			System.out.println("You Failed!");
+			System.out.println("You Failed!!!");
 		}
 
 		scnr.close();
